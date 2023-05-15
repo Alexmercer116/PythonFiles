@@ -1,3 +1,5 @@
+
+*.sqlite
 .vscode/
-Ak_Files.code-workspace
+
 
