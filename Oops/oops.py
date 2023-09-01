@@ -10,6 +10,7 @@ honda.speed = 220
 
 # __init__ method and self keyword
 '''
+self acts as an object or it points to current object
 class Auto_Mobile:
     def __init__(self,speed,color): 
         #__init__ Serves as Constructor of class.. but not a constructor
